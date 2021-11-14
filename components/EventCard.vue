@@ -31,6 +31,7 @@ div {
   margin-bottom: 24px;
   transition: all 0.2s linear;
   cursor: pointer;
+  border-left: solid 4px red;
 }
 div:hover {
   transform: scale(1.01);
